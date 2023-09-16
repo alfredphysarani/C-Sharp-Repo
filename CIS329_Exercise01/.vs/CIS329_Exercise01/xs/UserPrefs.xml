@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{5058CEE5-EC02-4AF1-A1FC-308F43823CF0}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="CIS329_Exercise01/Main.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CIS329_Exercise01" expanded="True">
+            <Node name="CIS329_Exercise01">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CIS329__Exercise01 PreferredExecutionTarget="MyMacID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

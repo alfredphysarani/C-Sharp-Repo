@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="CIS329_Exercise01.app/Contents/MacOS/CIS329_Exercise01">
+      <BCSymbolMapName>CIS329_Exercise01.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>CIS329_Exercise01.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_Exercise01/CIS329_Exercise01/obj/Release/net7.0-macos/mtouch-symbols.list</SymbolFile>
+      <DSymName>CIS329_Exercise01.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_Exercise01/CIS329_Exercise01</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

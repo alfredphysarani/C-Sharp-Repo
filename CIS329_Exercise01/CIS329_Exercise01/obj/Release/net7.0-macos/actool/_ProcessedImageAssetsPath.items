@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ImageAsset Include="Assets.xcassets/AppIcon.appiconset/Contents.json" />
+    <ImageAsset Include="Assets.xcassets/AppIcon.appiconset/Icon1024.png" />
+    <ImageAsset Include="Assets.xcassets/AppIcon.appiconset/Icon128.png" />
+    <ImageAsset Include="Assets.xcassets/AppIcon.appiconset/Icon16.png" />
+    <ImageAsset Include="Assets.xcassets/AppIcon.appiconset/Icon256.png" />
+    <ImageAsset Include="Assets.xcassets/AppIcon.appiconset/Icon32.png" />
+    <ImageAsset Include="Assets.xcassets/AppIcon.appiconset/Icon512.png" />
+    <ImageAsset Include="Assets.xcassets/AppIcon.appiconset/Icon64.png" />
+    <ImageAsset Include="Assets.xcassets/Contents.json" />
+  </ItemGroup>
+</Project>

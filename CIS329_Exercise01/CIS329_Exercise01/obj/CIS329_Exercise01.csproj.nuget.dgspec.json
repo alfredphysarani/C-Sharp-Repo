@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_Exercise01/CIS329_Exercise01/CIS329_Exercise01.csproj": {}
+  },
+  "projects": {
+    "/Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_Exercise01/CIS329_Exercise01/CIS329_Exercise01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_Exercise01/CIS329_Exercise01/CIS329_Exercise01.csproj",
+        "projectName": "CIS329_Exercise01",
+        "projectPath": "/Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_Exercise01/CIS329_Exercise01/CIS329_Exercise01.csproj",
+        "packagesPath": "/Users/alfredcheung/.nuget/packages/",
+        "outputPath": "/Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_Exercise01/CIS329_Exercise01/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alfredcheung/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-macos"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-macos13.0": {
+            "targetAlias": "net7.0-macos",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-macos13.0": {
+          "targetAlias": "net7.0-macos",
+          "dependencies": {
+            "Microsoft.Build.Framework": {
+              "target": "Package",
+              "version": "[17.7.2, )"
+            },
+            "NuGet.Frameworks": {
+              "target": "Package",
+              "version": "[6.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.osx-x64",
+              "version": "[7.0.11, 7.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.osx-x64",
+              "version": "[7.0.11, 7.0.11]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.macOS": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "osx-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

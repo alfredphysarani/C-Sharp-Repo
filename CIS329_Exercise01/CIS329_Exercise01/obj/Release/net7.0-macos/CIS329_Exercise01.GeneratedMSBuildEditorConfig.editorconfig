@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0-macos
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CIS329_Exercise01
+build_property.ProjectDir = /Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_Exercise01/CIS329_Exercise01/

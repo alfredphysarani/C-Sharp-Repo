@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "0uoLIiw/p+B2tmOsdNkjQjmxHtenVGiwz2GfPchtvGB3kKROxyXb/Wk/7raunHysdG/tG/u+q0Fnck0bEXZbHQ==",
+  "success": true,
+  "projectFilePath": "/Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_Exercise01/CIS329_Exercise01/CIS329_Exercise01.csproj",
+  "expectedPackageFiles": [
+    "/Users/alfredcheung/.nuget/packages/microsoft.build.framework/17.7.2/microsoft.build.framework.17.7.2.nupkg.sha512",
+    "/Users/alfredcheung/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "/Users/alfredcheung/.nuget/packages/nuget.frameworks/6.7.0/nuget.frameworks.6.7.0.nupkg.sha512",
+    "/Users/alfredcheung/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512",
+    "/Users/alfredcheung/.nuget/packages/system.security.permissions/7.0.0/system.security.permissions.7.0.0.nupkg.sha512",
+    "/Users/alfredcheung/.nuget/packages/system.windows.extensions/7.0.0/system.windows.extensions.7.0.0.nupkg.sha512",
+    "/Users/alfredcheung/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/7.0.11/microsoft.netcore.app.runtime.osx-x64.7.0.11.nupkg.sha512",
+    "/Users/alfredcheung/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/7.0.11/microsoft.aspnetcore.app.runtime.osx-x64.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
