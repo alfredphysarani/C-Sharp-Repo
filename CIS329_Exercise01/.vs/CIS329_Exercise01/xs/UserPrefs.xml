@@ -4,7 +4,7 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <Debugger.DebugSourceFolders />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CIS329_Exercise01/Main.cs">
     <Files>
       <File FileName="CIS329_Exercise01/Main.cs" Line="21" Column="1" />
     </Files>
@@ -12,11 +12,8 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CIS329_Exercise01" expanded="True">
-            <Node name="CIS329_Exercise01">
-              <Node name="Dependencies" expanded="True">
-                <Node name="FrameworkReferences" expanded="True" />
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
+            <Node name="CIS329_Exercise01" expanded="True">
+              <Node name="Main.cs" selected="True" />
             </Node>
           </Node>
         </State>
