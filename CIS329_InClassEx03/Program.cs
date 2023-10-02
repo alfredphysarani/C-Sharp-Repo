@@ -158,7 +158,7 @@ namespace vendingmachine
         static void sellProduct(ref dispenserType product, ref cashRegister pCounter)
         {
             // Debug
-            Console.WriteLine(String.Format("Cash received: {0:C}", pCounter.getCashOnHand));
+            //Console.WriteLine(String.Format("Cash received: {0:C}", pCounter.getCashOnHand));
             double amount; //variable for storing amount deposited by the user
             //Step 5ai
             if (product.getNoOfItems > 0)  
