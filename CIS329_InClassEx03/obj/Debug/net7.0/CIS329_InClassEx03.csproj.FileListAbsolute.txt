@@ -1,0 +1,15 @@
+/Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_InClassEx03/obj/Debug/net7.0/CIS329_InClassEx03.csproj.AssemblyReference.cache
+/Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_InClassEx03/obj/Debug/net7.0/CIS329_InClassEx03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_InClassEx03/obj/Debug/net7.0/CIS329_InClassEx03.AssemblyInfoInputs.cache
+/Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_InClassEx03/obj/Debug/net7.0/CIS329_InClassEx03.AssemblyInfo.cs
+/Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_InClassEx03/obj/Debug/net7.0/CIS329_InClassEx03.csproj.CoreCompileInputs.cache
+/Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_InClassEx03/bin/Debug/net7.0/CIS329_InClassEx03
+/Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_InClassEx03/bin/Debug/net7.0/CIS329_InClassEx03.deps.json
+/Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_InClassEx03/bin/Debug/net7.0/CIS329_InClassEx03.runtimeconfig.json
+/Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_InClassEx03/bin/Debug/net7.0/CIS329_InClassEx03.dll
+/Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_InClassEx03/bin/Debug/net7.0/CIS329_InClassEx03.pdb
+/Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_InClassEx03/obj/Debug/net7.0/CIS329_InClassEx03.dll
+/Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_InClassEx03/obj/Debug/net7.0/refint/CIS329_InClassEx03.dll
+/Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_InClassEx03/obj/Debug/net7.0/CIS329_InClassEx03.pdb
+/Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_InClassEx03/obj/Debug/net7.0/CIS329_InClassEx03.genruntimeconfig.cache
+/Users/alfredcheung/Documents/GitHub/C-Sharp-Repo/CIS329_InClassEx03/obj/Debug/net7.0/ref/CIS329_InClassEx03.dll
